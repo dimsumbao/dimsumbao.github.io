@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Persona</title>
+		
+	</head>
+
+<body>
+<font face="impact">
+<center>
+	<p><h1>Persona</h1></p>
+	<p><i><h2>And Personal Websites</h2></i></p>
+
+<p><b>By Jacqueline Arakaki</b></p></font>
+</center>
+
+<font face="verdana">
+
+<font face="impact"><p><h3><u>Persona</u></h3></p></font>
+<font size="2"><p></p><i>"Life's too short not to enjoy yourself."</i>
+
+<ul>
+	<li><b>Name:</b> Elain Chidester</li>
+	<li><b>Age:</b> 24</li>
+	<li><b>Location:</b> Portland, Oregon</li>
+</ul>
+</font>
+
+<font face="impact"><p></p><b>About</b></font>
+
+<font size="2">
+<p></p>Elain is a woman who believes that life is about being able to make people happy while enjoying yourself. She enjoys creating and buying cute things for herself and her friends. She is constantly looking for the newest online shop trends. One day, Elain hopes to create her own business so that she can share her creations with others. In the mean time, she researches what types of products are trending to get ideas for herself.
+</font>
+
+<font face="impact"><p></p><b>Behavioral Considerations</b></font>
+
+<font size="2">
+<ul>
+	<li>Interested in online pop-culture in order to both follow their trends and create new ones.</li>
+	<li>Takes website layout, presentation, and theme into consideration when making judgemnets about the website's validity</li>
+	<li>If the homepage catches her interest, she is likely to shop</li>
+	<li>Will always remember a good, clean logo or mascot</li>
+	<li>Is constantly looking for inspiration and ways to create her own sucessful online business</li>
+	<li>Interested in unique, quirky, and cute products and websites</li>
+	<li>Will become a loyal customer if products are good and customer service is better</li>
+</ul>
+</font>
+
+<font face="impact"><p></p><b>Frustrations</b></font>
+
+<font size="2">
+<ul>
+	<li>Dislikes shops who do not have a front page</li>
+	<li>Will not take the extra time or effort to navigate a messy website</li>
+	<li>Too many businesses have inadequate customer service</li>
+	<li>Not enough websites take simplicity into account</li>
+</ul>
+</font>
+
+<font face="impact"><p></p><b>Goals/Tasks</b></font>
+
+<font size="2">
+<ul>
+	<li>To research sucessful ways to start her own online business</li>
+	<li>Research sucessful asthetic qualities</li>
+	<li>Wants to create her own logo that is simple and memorable</li>
+</ul>
+</font>
+
+<font face="impact"><p><h3><u>Content</u></h3></p></font>
+<font size="2">
+<p></p><i>Overall this will work as a personal portfolio and (later) online shop.</i>
+
+<ol>
+	<li>Multiple pages navigated using either clean, minimal links or drop-down menus</li>
+	<li>A portfolio section to showcase past products and works.</li>
+	<li>A personal website, to go alongside the portfolio.</li>
+	<li>The skeleton for a shop</li>
+</ol>
+</font>
+
+<font face="impact"><p><h3><u>Personal Websites</u></h3></p></font>
+
+<ol>
+	<li><a href="http://www.sugarbunnyshop.com">Sugar Bunny Shop</a></li>
+	<font size="2">
+	<p></p><i>The layout of this shop is compact and while it is a little busy, it has a lot of good features. One of the features I liked the most is the self-rotating image that directs you to the different highlighted items. The overall patchwork of site is also quirky and visually appealing.</i>
+	</font>
+	
+	<li><a href="http://www.omocat-shop.com">OMOCAT</a></li>
+	<font size="2">
+	<p></p><i>Absolutely love the minimalist design to the site. It's simple, clean, and is easy to navigate. The rotating image is, again, something I really like. I also like the use of dropdown menus for navigation purposes, as it is cleaner than scattered or listed links. The way the images change when you hover over them is also neat, to see more of the item. Also the check-out system is very simple.</i>
+	</font>
+	
+	<li><a href="http://thunderpaw.co">Thunderpaw</a></li>
+	<font size="2">
+	<p></p><i>While this is not a shop, I really like the layout of the website. It's, agian, simple even for a webcomic. I really like the layering of images and text throughout the website. For example, there are .gifs and moving images alongside stillimages and moving images over other moving images, creating depth to the page. </i>
+	</font>
+
+	<li><a href="http://www.heychickadee.com">Hey Chickadee</a></li>
+	<font size="2">
+	<p></p><i>This shop is very simple in its layout. There is a banner, dropdown menus, and a rotating image. There is a theme within these shops, I think you can tell. I also really like the search function for the website which would be neat to learn how to do. The bottom bar is also very well organized.</i>
+	</font>
+	
+	<li><a href="http://www.barachan.com">Barachan</a></li>
+	<font size="2">
+	<p></p><i>The layout of this site is very well done because it is clean, centered, and aligned to perfection. I love the sample-like nature of the homepage that links to a in-window pop-up. I really like this because you are not forced to leave the page you are on in order to view just an image.I also like how the introduction is done further down as it is alighted next to an image while keeping within a nice form.</i>
+	</font>
+</ol>	
+		
+</font>
+
+</body>
+</html>
