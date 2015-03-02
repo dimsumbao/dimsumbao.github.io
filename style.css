@@ -19,11 +19,11 @@ a:active {
 }
 
 .center {
-    align: center;
+	text-align:center;
 }
 
 .right {
-    align: right;
+	text-align:right;
 }
 
 body {
