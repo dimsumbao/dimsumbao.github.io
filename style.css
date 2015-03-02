@@ -18,6 +18,14 @@ a:active {
 	color: #78E6E6;
 }
 
+.center {
+    align: center;
+}
+
+.right {
+    align: right;
+}
+
 body {
 	font-family:Tw Cen MT;
 	padding-top: 15px;
