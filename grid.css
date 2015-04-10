@@ -67,6 +67,17 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: #00CCCC;
+}
+h2 {
+  font-size: 2em;
+  margin: 0.67em 0;
+  color: #00CCCC;
+}
+h3 {
+  font-size: 1.3em;
+  margin: 0.67em 0;
+  color: #009999;
 }
 mark {
   background: #ff0;
