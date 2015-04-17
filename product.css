@@ -1,0 +1,112 @@
+body {
+	font-family: Helvetica, sans-serif;
+}
+
+.navbar-default {
+	background-color:#FFB2D1;
+	border-color:#FFF;
+}
+
+.navbar-default .navbar-brand {
+	color: #FFF;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:100px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #85D6FF;
+  background-color: #FFF;
+}
+
+.btn-blue {
+	background-color:#FFF;
+	border-color:#85D6FF;
+	color:#85D6FF;
+}
+
+.btn-orange {
+	background-color:#FFF;
+	border-color:#85D6FF;
+	color:#FF5800;
+}
+
+.form-control {
+	border: 1px solid #FF5919;
+}
+
+.footer .btn-default {
+  color: #85D6FF;
+  background-color: #FFF;
+  border-color: #85D6FF;
+}
+
+#collection {padding: 100px 0px;
+	text-align:center;}
+
+
+#hero {background-color:#FFC2E0;color:#FFF;padding:100px 0px 80px 0px;}
+#hero h2 {font-size:5em;margin-bottom:.25em;}
+#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
+
+#hero p#hard-sell {margin-top:50px;font-size:1.75em;}
+
+#creators {
+	padding: 50px 0px 50px 0;
+	background-color:#B2F0FF;
+	color:#FFF;
+}
+
+#creators h2 {
+	font-size: 3.5em;
+  	line-height: 1.5em;
+}
+
+#creators #subtitle {margin-bottom:24px;}
+
+#creators img {
+	background-color:#FFF;
+
+}
+
+#creators .features {margin-top:24px;}
+
+#action {
+	padding:75px 0px;
+	background-color:#4C61FF;
+}
+
+#action h2 {text-align:right;color:#FFF;}
+
+#action .input-group {margin-top:19px;}
+
+#action .btn-default {border:1px solid #85D6FF;color:#FF5800;}
+
+#faq {padding: 50px 0px 50px 0px;}
+#faq h2 {text-align:right;}
+
+#faq .panel-default>.panel-heading {
+  color: #85D6FF;
+  background-color: #FFF;
+  border-color: #85D6FF;
+}
+
+#faq .panel-default {
+  border-color: #FF5800;
+}
+
+
+.footer {
+	background-color:#FFB2D1;
+	color:#FFF;
+	padding:30px 0px;
+}
+
+.footer small {color:#FFF;}
+
+.footer a {color:#85D6FF;}
+
+.footer .copyright {padding:25px 0 0 0px;}
