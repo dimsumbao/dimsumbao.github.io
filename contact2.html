@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<title>Kama'aina Krate</title>
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="final.css">
+	</head>
+	
+<body>
+	
+<!--Navigation Bar-->
+	    <nav class="navbar navbar-default navbar-fixed-top">
+	      <div class="container">
+	        <div class="navbar-header">
+	          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+	            <span class="sr-only">Toggle navigation</span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	            <span class="icon-bar"></span>
+	          </button>
+	          <a class="navbar-brand" href="#"><img src="http://i3.photobucket.com/albums/y55/Midnight_Sukioma/logo_zpsx9yedd0y.png" alt="Logo" height="31" width="125"></a>
+	        </div>
+	        <div id="navbar" class="navbar-collapse collapse">
+	          <ul class="nav navbar-nav navbar-right">
+	             <li><a href="#howto">How it Works</a></li>
+				<li><a href="#purchase">Purchase</a></li>
+	            <li><a href="#faq">FAQ</a></li>
+				<li><a href="#about">About Us</a></li>
+				<li><a href="#contact">Contact</a></li>
+	          </ul>
+	        </div>
+	      </div>
+	    </nav>
+		
+<!--Banner-->
+<div class="center">
+<div class="row">
+	<img src="http://i3.photobucket.com/albums/y55/Midnight_Sukioma/5_zps6rbhlov6.png" alt="Header">
+</div>
+</div>
+
+<hr>
+<!--Top-->
+<h4>Contact Us</h4>
+<p>Have a question, comment, or concern? We want to hear it!</p>
+
+<h2>Form</h2>
+
+<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+	<div class="row">
+		<label for="name">Your name:</label><br />
+		<input id="name" class="input" name="name" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="email">Your email:</label><br />
+		<input id="email" class="input" name="email" type="text" value="" size="30" /><br />
+	</div>
+	<div class="row">
+		<label for="message">Your message:</label><br />
+		<textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
+	</div>
+	<input id="submit_button" type="submit" value="Send email" />
+</form>						
+
+<hr>
+
+<h2>Want to get more personal?</h2>
+<ul>
+	<li><h3>Email:</h3> <a href="CustomerService@KK.com">CustomerService@KK.com</a></li>
+	<li><h3>Phone #:</h3> (808)555-2275</li>
+</ul>
+
+<hr>
+<!--Description-->
+<h2>Need to find us?</h2>
+
+<div id="googleMap" style="width:500px;height:380px;"></div>
+<p>250 Kawaihae Street</p>
+<p>Honolulu, HI 96825</p>
+
+<hr>
+<!--Footer-->
+	<footer class="footer">
+        <div class="container">
+         	<div class="row">
+  		   <div class="col-sm-5">
+		   	<p><b>Kama'aina Krate</b> provides only made-in-Hawai'i products in every box. Each package is packed by hand with aloha. Every Krate is a little slice of the islands.</p>
+			   </div>
+	  		   <div class="col-sm-2">
+				   </div>
+		   <div class ="col-sm-3">
+		   	<h5>Want the latest news<br><small>Follow us</small></h5>
+			<p><a href="#"><i class="fa fa-twitter"></i> On Twitter</a></p>
+			<p><a href="#"><i class="fa fa-facebook"></i> On Facebook</a></p></div>
+		   <div class="col-sm-2">
+		   	<h5>Questions?<br><small>Contact us!</small></h5>
+			<p><a href="CustomerService@KK.com"><i class="fa fa-envelope-square"></i> Shoot an Email</a></p></div>
+	  </div>
+	   	<div class="row">
+	   		<p class="muted text-center small">&copy; 2015 Jacqueline Arakaki</p>
+		</div>
+      </div>
+    </footer>
+	
+<!--Scripts-->
+<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script>
+function initialize() {
+  var mapProp = {
+    center:new google.maps.LatLng(21.2877721,-157.7191931),
+    zoom:15,
+    mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+}
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</body>
+</html>
